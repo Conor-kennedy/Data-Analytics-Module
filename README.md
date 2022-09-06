@@ -1,6 +1,6 @@
 # Data-Analytics-Module
 
-Assignment 1 - COMP47350: Data Analytics - University College Dublin
+University College Dublin COMP47350: Data Analytics - Assignment 1
 
 Analysis of a sample of the Property Price Register dataset available from https://data.gov.ie/dataset/property-price-register. 
 
